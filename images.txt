@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 ubuntu:noble-20260509.1
-redis:8-debian-dev
+redis
