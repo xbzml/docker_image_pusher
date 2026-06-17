@@ -7,3 +7,8 @@ xhofe/alist:latest
 
 ubuntu:noble-20260509.1
 redis
+registry
+
+
+
+
