@@ -10,5 +10,6 @@ redis
 registry
 mysql
 portainer/portainer-ce
+apache/rocketmq
 
 
